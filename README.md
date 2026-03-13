@@ -1,4 +1,4 @@
-Основы Git
+Git_hse
 Prokashev Egor
-БИ241
-(файл изменен через веб-интерфейс)
+BI241
+(file has changed with web version)
